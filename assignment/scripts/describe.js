@@ -146,7 +146,6 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4
 // -- they are so we console.log 'throw away the food!'
 
-// Fix -  time is set to a constants it should be switched to a vairable such as - let time = 4;
 // Fix- in the conditional syntax code, it should && and ||. so it should read - if (temp >39 && time >= 4)
 /*
 let temp = 40;
@@ -161,7 +160,6 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge
 // -- they are, so we console.log 'enter'.
 
-// Fix - minAge is set as a const instead of a variable, should read - let minAge = 21;
 // Fix - conditional syntax should swith minAge with age and vice versa, should read as - if (age >= minAge)
 // Fix - console.log after if should be enter instead of no entry and the else should be no entry instead of enter.
 /*
