@@ -27,9 +27,9 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // A variable is made to be called name and set to be Dane.
-// then we check if name is true, exact match to Dane.
-// if it is true, exact match to Dane then we console.log 'Hi, Mary!'.
-// However, it is not true, exact match to Dane so, we console.log 'How do you do?'
+// then we check if name is true, exact match to Mary.
+// if it is true, exact match to Mary then we console.log 'Hi, Mary!'.
+// However, it is not true, exact match to Mary so, we console.log 'How do you do?'
 
 //CODE
 /*
@@ -47,7 +47,7 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 //We start with two vairiable - secret; and code = 123;
 //then we check if code is equal exactly to 123 which it is true, so that makes secret = 'super'; and code = 'code * 2';.
-//Then we check if code is less than 250 which is false so it did not console.log.
+//Then we check if code is less than 250 which is false so we console.log(secret) which secret comes out to be 'super'
 //
 
 //CODE
@@ -160,7 +160,7 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge
 // -- they are, so we console.log 'enter'.
 
-// Fix - conditional syntax should swith minAge with age and vice versa, should read as - if (age >= minAge)
+// Fix - conditional syntax should switch minAge with age and vice versa, should read as - if (age >= minAge)
 // Fix - console.log after if should be enter instead of no entry and the else should be no entry instead of enter.
 /*
 let age = 21;
